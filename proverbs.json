@@ -2,45 +2,45 @@
     "Amharic proverbs" : [
         {
             "id" : 1,
-            "Ge'ez Writing" : "ክፉ : ቀን : እና : ዝግምግምን : ጎንበስ :ብሎ : ማሳለፍ:: ",
-            "English Literal Translation" : "let bad days and signs of trouble passby with a bowed head",
+            "Ge'ez Writing" : "ክፉ : ቀን : እና : ዝግምግምን : ጎንበስ :ብሎ : ማሳለፍ። ",
+            "English Literal Translation" : "let bad days and signs of trouble passby with a bowed head.",
             "English Equivalent Proverbs" : "Mind your own business and get out of the way."
         },
         {
             "id" : 2,
-            "Ge'ez Writing" : "ካለ : መናገር : ደጅ : አዝማችነት : ይቀራል::",
-            "English Literal Translation" : "you won't get promoted without speaking up. ",
+            "Ge'ez Writing" : "ካለ : መናገር : ደጅ : አዝማችነት : ይቀራል። ",
+            "English Literal Translation" : "you won't get promoted without speaking up.",
             "English Equivalent Proverbs" : "It doesn't hurt to ask.Closed mouths don't get fed."
         },
         {
             "id" : 3,
-            "Ge'ez Writing" : "ስያጌጡ : ይመላለጡ :: ",
-            "English Literal Translation" : "When you beautify yourself, you get bald spots",
-            "English Equivalent Proverbs" : "Beauty is pain"
+            "Ge'ez Writing" : "ስያጌጡ : ይመላለጡ። ",
+            "English Literal Translation" : "When you beautify yourself, you get bald spots.",
+            "English Equivalent Proverbs" : "Beauty is pain."
         },
         {
             "id" : 4,
-            "Ge'ez Writing" : "ስዕል: እና :ዘመድን :ከሩቅ :ነው :የሚያምረው::",
+            "Ge'ez Writing" : "ስዕል: እና :ዘመድን :ከሩቅ :ነው :የሚያምረው። ",
             "English Literal Translation" : "Art and relatives are better experienced from a distance.",
             "English Equivalent Proverbs" :"Distance makes the heart grow fonder."
         },
         {
             "id" : 5,
-            "Ge'ez Writing" : "አትሩጥ : አንጋጥ ::",
-            "English Literal Translation" : "don't run, look up",
+            "Ge'ez Writing" : "አትሩጥ : አንጋጥ። ",
+            "English Literal Translation" : "don't run, look up.",
             "English Equivalent Proverbs" : "don't stay busy with running around, instead pray."
         },
         {
             "id" : 6,
-            "Ge'ez Writing" : "ምከረው : ምከረው ካልሰማህ : መከራ : ይምከረው :: ",
-            "English Literal Translation" : "keep advising, if they don't take heed, let suffering be their advisor",
+            "Ge'ez Writing" : "ምከረው : ምከረው ፣ ካልሰማህ : መከራ : ይምከረው። ",
+            "English Literal Translation" : "keep advising, if they don't take heed, suffering will be their best advisor.",
             "English Equivalent Proverbs" : "If someone is stuborn in the face of wisdom, let them go out and get hurt - that'll learn best through trial and error."
         },
         {
             "id" : 7,
-            "Ge'ez Writing" : "እኔው : በገዛ : እጄ : ብዬ : ወረድ : ወረድ ፣ እመቤቱን : ልቤን : አደረግኩት : ገረድ:: ",
-            "English Literal Translation" : "By my own free will I humbled my heart and turned myself into a slave",
-            "English Equivalent Proverbs" : "Don't degrade yourself infront of others too much or they'll see it as weakness and take advantage of you. "
+            "Ge'ez Writing" : "እኔው : በገዛ : እጄ : ብዬ : ወረድ : ወረድ ፣ እመቤቱን : ልቤን : አደረግኩት : ገረድ።",
+            "English Literal Translation" : "By my own free will I humbled my heart and turned myself into a slave.",
+            "English Equivalent Proverbs" : "Don't degrade yourself infront of others too much or they'll see it as weakness and take advantage of you."
         },
         {
             "id" : 8,
